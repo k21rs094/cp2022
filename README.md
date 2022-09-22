@@ -1,2 +1,5 @@
 # cp2022
-クラウドプログラミング演習（第02回）の課題
+
+This is README.
+- item1
+- item2
